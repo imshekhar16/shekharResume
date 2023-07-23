@@ -14,20 +14,20 @@ body {
 	width: 50%;
 	max-width: 1000px;
 	min-height: 100px;
-	background-color: rgb(245, 239, 231);
+	background-color: rgb(78, 68, 56);
 	margin: 0px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
 }
 .left {
 	position: initial;
-	background-color: rgb(145, 168, 245);
+	background-color: rgb(210, 198, 66);
 	padding: 20px;
 
 }
 .right {
 	position: initial;
-	background-color: rgb(200, 173, 216);
+	background-color: rgb(219, 134, 69);
 	padding: 20px;
 
 }
@@ -36,6 +36,6 @@ body {
 	margin-bottom: 30px;
 }
 .h2 {
-	background-color: rgb(4, 96, 150);
+	background-color: rgb(92, 62, 174);
 }
 
